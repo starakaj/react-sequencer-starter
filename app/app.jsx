@@ -1,7 +1,6 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
 
-/* Import Components */
-const HelloWorld = require('./components/HelloWorld');
+const Sequencer = require('./components/Sequencer');
 
-ReactDOM.render(<HelloWorld/>, document.getElementById('main'));
+ReactDOM.render(<Sequencer/>, document.getElementById('main'));
