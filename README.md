@@ -1,7 +1,7 @@
-Starter React App on Glitch
+Starter React Sequencer App
 ===========================
 
-This app is a very small scaffold to get you started using React and Webpack.
+It's not a sequencer, but it's a start.
 
 It's been copied by @starakaj for your enjoyment. You can find the original at https://glitch.com/~starter-react.
 
