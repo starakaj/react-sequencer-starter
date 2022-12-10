@@ -9,7 +9,7 @@
     "serve": "webpack && PORT=3000 node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "jsx-loader": "^0.13.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
